@@ -12,6 +12,9 @@ I am a Front-End Developer based in 📍Chennai, India
 <a href="https://www.linkedin.com/in/selva-ganapathi/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  &nbsp;  <a href="https://www.instagram.com/mr_selva_g" rel="nofollow">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=600&color=F79A00&random=false&width=435&lines=Thanks+for+Visiting!;Follow+Me!!)](https://git.io/typing-svg)
+
+
 <!-- <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 **selva1011/selva1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
