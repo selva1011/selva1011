@@ -1,10 +1,10 @@
 # Hi! My name is Selva Ganapathi 😄✨
-###### I am a Front-End Developer based in 📍Tamil Nadu, India.
+I am a Front-End Developer based in 📍Tamil Nadu, India.
 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js,git)](https://skillicons.dev)
 
