@@ -1,5 +1,5 @@
 # Hi! My name is Selva Ganapathi 😄✨
-🌍  I am a Front-End Developer based in Tamil Nadu, India.
+🌍  I am a Front-End Developer based in Tamil Nadu, India.$${\color{Tamil Nadu}Green}$$
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
