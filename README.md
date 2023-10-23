@@ -1,5 +1,5 @@
 # Hi! My name is Selva Ganapathi 😄✨
-I am a Front-End Developer based in 📍[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A42A&random=false&width=435&lines=Tamil+Nadu%2C+India)](https://git.io/typing-svg).
+I am a Front-End Developer based in 📍[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=00A42A&random=false&width=435&lines=Tamil+Nadu%2C+India)]
 
 
 ### Skills
