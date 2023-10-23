@@ -1,5 +1,5 @@
 # Hi! My name is Selva Ganapathi 😄✨
-I am a Front-End Developer based in 📍Tamil Nadu, India.
+I am a Front-End Developer based in 📍[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A42A&random=false&width=435&lines=Tamil+Nadu%2C+India)](https://git.io/typing-svg).
 
 
 ### Skills
@@ -10,7 +10,7 @@ I am a Front-End Developer based in 📍Tamil Nadu, India.
 
 ### Socials
 
-<a href="https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/selva-ganapathi/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
