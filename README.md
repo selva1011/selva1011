@@ -1,17 +1,18 @@
 # Hi! My name is Selva Ganapathi 😄✨
-I am a Front-End Developer based in 📍![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=00A42A&random=false&width=435&lines=Tamil+Nadu%2C+India)
+I am a Front-End Developer based in 📍Chennai, India
 
 
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,git)](https://skillicons.dev)
 
 ### Socials
 
 <a href="https://www.linkedin.com/in/selva-ganapathi/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<a href="[https://www.linkedin.com/in/selva-ganapathi/](https://www.instagram.com/mr_selva_g/)" rel="nofollow">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</a>
 
 
 <!-- <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
