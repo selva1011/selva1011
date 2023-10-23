@@ -8,7 +8,7 @@
 
 ### Socials
 
-https://www.linkedin.com/in/selva-ganapathi/
+<a href=”https://www.linkedin.com/in/selva-ganapathi/"><img align=”left” src=”https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt=”icon | LinkedIn” width=”21px”/></a>
 <!--
 **selva1011/selva1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
