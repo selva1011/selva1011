@@ -10,7 +10,7 @@ I am a Front-End Developer based in 📍Tamil Nadu, India.
 
 ### Socials
 
-<a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a>
+<a href="https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c" rel="nofollow">How to Create a Beautiful README for Your GitHub Profile</a>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
