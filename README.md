@@ -1,10 +1,14 @@
-# Hi! My name is Selva Ganapathi :smile:  
+# Hi! My name is Selva Ganapathi 😁 ✨
 🌍  I am a Front-End Developer based in Tamil Nadu, India.
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 &nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js,git)](https://skillicons.dev)
+
+### Socials
+
+https://www.linkedin.com/in/selva-ganapathi/
 <!--
 **selva1011/selva1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
