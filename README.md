@@ -3,8 +3,8 @@
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,git)](https://skillicons.dev)
 <!--
 **selva1011/selva1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
