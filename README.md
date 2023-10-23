@@ -1,4 +1,4 @@
-# Hi! My name is Selva Ganapathi 😁 ✨
+# Hi! My name is Selva Ganapathi 😄✨
 🌍  I am a Front-End Developer based in Tamil Nadu, India.
 ### Skills
 
@@ -8,8 +8,8 @@
 
 ### Socials
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-<!--
+<!-- <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
 **selva1011/selva1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
