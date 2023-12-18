@@ -8,7 +8,7 @@ I am a Front-End React Developer based in 📍Chennai, India
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/selva-ganapathi/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  &nbsp;  <a href="https://www.instagram.com/mr_selva_g" rel="nofollow">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a>
+<a href="https://www.linkedin.com/in/selva-ganapathi/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  &nbsp;  <a href="https://www.instagram.com/mr_selva_g" rel="nofollow">[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]</a>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=600&color=F79A00&random=false&width=435&lines=Thanks+for+Visiting!;Follow+Me!!)](https://git.io/typing-svg)
