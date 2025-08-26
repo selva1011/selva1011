@@ -1,5 +1,5 @@
 # Hi! My name is Selva Ganapathi 😄✨
-I am a Front-End React Developer based in 📍Chennai, India
+I am a Front-End Developer based in 📍Chennai, Tamil Nadu, India
 
 
 ### Skills
