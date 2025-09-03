@@ -1,4 +1,4 @@
-# Hi! My name is Selva Ganapathi 😄✨
+# Selva G😄✨
 I am a Front-End Developer based in 📍Chennai, Tamil Nadu, India
 
 
